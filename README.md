@@ -1,6 +1,9 @@
 # 出锅(chuguo)
 
-出锅最新版1.3.13版插件下载:  
+[点击这里下载出锅最新版1.3.13版插件](https://github.com/chuguofan/chuguo/releases/download/chuguo_v1.3.13/chuguo_v1.3.13.crx)
+
+[点击进入官方网站](https://go.cg003.xyz:8786//home/invite.html?code=77db427309a3eeb4)
+
 
 # 简介
 
