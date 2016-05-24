@@ -4,6 +4,7 @@
 
 [点击进入官方网站](https://go.cg003.xyz:8786//home/invite.html?code=77db427309a3eeb4)
 
+[点击这里我你可以链接到我的博客](<a target=_blank href="http://blog.csdn.net/brokge">http://blog.csdn.net/brokge</a>)
 
 # 简介
 
