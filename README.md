@@ -4,6 +4,10 @@
 
 [点击进入官方网站](https://go.cg003.xyz:8786//home/invite.html?code=77db427309a3eeb4)
 
+[下载Windows AnyConnect 客户端](http://dl.xxshe.com/cisco_anyconnect/anyconnect-win-4.2.04018-pre-deploy-k9.msi)
+
+[下载Android AnyConnect 客户端](http://dl.xxshe.com/cisco_anyconnect/anyconnect.vpn.android.avf-4.0.01287.apk)
+
 
 # 简介
 
